@@ -47,6 +47,11 @@ DATABASE_URL=
 NEXTAUTH_JWT_SECRET=
 NEXTAUTH_SECRET=
 ```
+### Setup Prisma
+
+```shell
+npx prisma db push
+```
 
 ### Start the app
 
